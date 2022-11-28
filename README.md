@@ -8,6 +8,7 @@
 ## Visual Studio Code (Vscode)
 
 1º Faça o <a href="https://code.visualstudio.com/download"> download </a> do vscode .deb no site oficial.
+<br>
 2º Entre na pasta que você baixou o arquivo e abra o terminal.
 
 > sudo su
@@ -27,6 +28,7 @@
 ## Dbeaver
 
 1º Faça o <a href="https://dbeaver.io/download/"> download </a> do instalador .deb no site oficial
+<br>
 2º Entre na pasta que você baixou o arquivo e abra o terminal.
 
 > sudo su
