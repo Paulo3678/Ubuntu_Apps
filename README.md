@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./images/ubuntu.png"/>
 
-# Instalação de plicativos necessários para desenvolvedores no Ubuntu
+# Instalação de aplicativos necessários para desenvolvedores no Ubuntu
 </div>
 
 
