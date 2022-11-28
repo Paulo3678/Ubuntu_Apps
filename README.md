@@ -52,3 +52,31 @@
 
 4º Instale o Filezilla
 > sudo apt-get install filezilla
+
+<hr>
+
+## Wine
+
+1º Baixando propriedades do wine para o seu computador
+> sudo apt install software-properties-common apt-transport-https winbind -y <br>
+
+2º Instalando leitor 32bits linux
+> sudo dpkg --add-architecture i386 <br>
+
+3º Atualize as configurações do seu ubuntu
+> sudo apt update <br>
+
+4º Instalando wine 64 e 32 bits
+> sudo apt install wine64 wine32 -y <br>
+
+5º Verificando instalação
+> wine --version <br>
+
+6º Visualizar menu de configurações wine
+> winecfg <br>
+
+7º Instalando winetricks
+> sudo apt isntal winetricks
+
+8º Instalando dependências do wine
+> winetricks atmlib gdiplus msxml3 msxml6 vcrun2005 vcrun2005sp1 vcrun2008 ie6 fontsmooth-rgb gecko
